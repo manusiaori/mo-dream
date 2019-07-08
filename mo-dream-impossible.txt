@@ -1,4 +1,6 @@
 Impossible dream
 
 - Play Button jadi pajangan
+  ~ Silver
+  ~ Diamond
 - Punya MAC Book
